@@ -60,6 +60,7 @@ nav li a:hover{
     margin-top: 80px;
     font-family: 'Courier New', Courier, monospace;
 }
+
 .content p{
     margin: 20px auto;
     font-weight: 100;
@@ -84,3 +85,9 @@ button:hover{
     color:orange;
 
 }
+img {
+    padding: 5px 0;
+    width: 150px;
+    height:50px;
+    position:relative;
+  }
